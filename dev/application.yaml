@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/popilmv/argo/tree/main/dev.git
+    repoURL: https://github.com/popilmv/argo.git
     targetRevision: HEAD
     path: dev
   destination: 
